@@ -21,3 +21,26 @@ C:\Users\molir\OneDrive\Desktop\Schule 4.Klasse\POS\TriathlonWPF\TriathlonWPF\ob
 C:\Users\molir\OneDrive\Desktop\Schule 4.Klasse\POS\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.pdb
 C:\Users\molir\OneDrive\Desktop\Schule 4.Klasse\POS\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.genruntimeconfig.cache
 C:\Users\molir\OneDrive\Desktop\Schule 4.Klasse\POS\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\ref\TriathlonWPF.dll
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\TriathlonWPF.exe
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\TriathlonWPF.deps.json
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\TriathlonWPF.runtimeconfig.json
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\TriathlonWPF.dll
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\TriathlonWPF.pdb
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.csproj.AssemblyReference.cache
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF_MarkupCompile.cache
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF_MarkupCompile.lref
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.g.resources
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.AssemblyInfoInputs.cache
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.AssemblyInfo.cs
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.csproj.CoreCompileInputs.cache
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.csproj.CopyComplete
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.dll
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\refint\TriathlonWPF.dll
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.pdb
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\TriathlonWPF.genruntimeconfig.cache
+C:\Users\molir\OneDrive\Dokumente\GitHub\4AHINF_POS_Semester_Projekt\TriathlonWPF\TriathlonWPF\obj\Debug\net6.0-windows\ref\TriathlonWPF.dll

@@ -113,7 +113,7 @@ namespace TriathlonWPF
             foreach (TeamDaten item in sortedList)
             {
                 Console.WriteLine(item.TeamName);
-                FullList.Items.Add("Teamname: " + item.TeamName + "\t\t\t\t" + "Platz" + item.Platz + "\t\t\t\t" + "Gesamtzeit: " + item.GesamtZeit);
+                FullList.Items.Add("Teamname: " + item.TeamName + "\t\t\t\t\t\t\t\t" + "Gesamtzeit: " + item.GesamtZeit);
             }
 
      
